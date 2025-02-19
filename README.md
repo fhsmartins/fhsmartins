@@ -4,7 +4,7 @@
 
 🌟 Welcome to my GitHub profile! 🚀
 
-- 🎮 Gamer | 🎾 Tennis Player | 🚙 Offroad Enthusiast
+- 🎮 Gamer
 - 💻 AMS | IT Coordinator | AI and Big Data
 - 📍 São Paulo, Brazil
 - 📫 Contact me: [fabio@fastmail.uk](mailto:fabio@fastmail.uk) | Linkedin - https://www.linkedin.com/in/fhsmartins/
